@@ -1,7 +1,7 @@
 {
-  "name": "好きなプロジェクト名を入れてください",
+  "name": "dbt-handson",
   "dockerComposeFile": "docker-compose.yml",
-  "service": "python-template",
+  "service": "pytemplate",
   "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
